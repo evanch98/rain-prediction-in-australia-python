@@ -1,5 +1,5 @@
 # rain-prediction-in-australia-python
-![GitHub repo size](https://img.shields.io/github/repo-size/rain-prediction-in-australia-python)
+![GitHub repo size](https://img.shields.io/github/repo-size/evanch98/rain-prediction-in-australia-python)
 ![GitHub stars](https://img.shields.io/github/stars/evanch98/rain-prediction-in-australia-python)
 ![GitHub forks](https://img.shields.io/github/forks/evanch98/rain-prediction-in-australia-python)
 
