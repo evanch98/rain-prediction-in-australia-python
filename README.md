@@ -3,7 +3,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/evanch98/rain-prediction-in-australia-python)
 ![GitHub forks](https://img.shields.io/github/forks/evanch98/rain-prediction-in-australia-python)
 
-April, 2024
+April, 2024 <br />
 A rain-prediction-in-australi machine learning model in Python. This project is part of the [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer).
 
 ## Project Description
